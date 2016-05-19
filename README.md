@@ -7,20 +7,21 @@ This easy-to-use library includes all advanced training methods, with tensor for
 > 1. Greedy Layer-Wise Pre-train
 > 2. Fine-Tune
 > 3. Dropout
-> 4. Autoencoder (AE)
-> 5. Regression & Classification
-> 6. Apache Spark
-> 7. GPU Acceleration
+> 4. Dropneuron
+> 5. Autoencoder (AE)
+> 6. Regression & Classification
+> 7. Apache Spark
+> 8. GPU Acceleration
 
 ### Activation Functions:
 > 1. Rectifier	(if pre-train: reconstruction layer will be softplus)
 > 2. Sigmoid		(if pre-train: reconstruction layer will be sigmoid)
 > 3. Ramp Sigmoid  (if pre-train: reconstruction layer will be sigmoid)
 > 4. All Others
-> 
+> 5. Max-out (to do)
 
 ## License
-Copyright (C) 2016 Hao Dong <hao.dong11@imperial.ac.uk>
+Copyright (C) 2016 Hao Dong <hao.dong11@imperial.ac.uk> 
 
 The code is a part of HDL project
 
@@ -33,3 +34,5 @@ Hao Dong
 Department of Computing & Data Science Institute
  
 Imperial College London
+
+> Note that: Dropneuron was published by Hao Dong, this is the first code to implement Dropneuron.
