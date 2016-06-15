@@ -40,4 +40,4 @@ Department of Computing & Data Science Institute
  
 Imperial College London
 
-> Note that: Dropneuron was published by Hao Dong, this is the first code to implement Dropneuron.
+> Note that: Dropneuron was published by Hao Dong, this is the first code to implement Dropneuron. Dropneuron is under review of NIPS.
